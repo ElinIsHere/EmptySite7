@@ -1,39 +1,39 @@
 body {
-    color: #000;
+    background-color: #000;
 }
 
-.header {
+header {
     background-color: #a00c0c;
     text-align: center;
     padding: 20px;
 }
     
-.footer{
+footer{
     background-color: #a00c0c;
     text-align: center;
     padding: 20px;
 }
 
 
-.p{
+p{
     color: #fff;
     
 }
 
-.h1{
+h1{
     color: #fff;
     
     
 }
 
-.h2{
+h2{
     color: #fff;
     
     
     
 }
 
-.h3{
+h3{
     color: #fff;
     
     
