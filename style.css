@@ -51,7 +51,16 @@ div.game{
     
     
 }
- 
+
+#box1{
+    width: 50vw;
+  background-color: #a00c0c;
+  margin-left: 100px;
+  padding: 0;
+  display:block;
+  margin:0;
+    
+} 
 
 
 
