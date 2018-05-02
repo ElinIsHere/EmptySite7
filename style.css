@@ -64,5 +64,27 @@ div.game{
 
 
 
+a:link {
+    color: #fff;
+    background-color: transparent; 
+    text-decoration: none;
+}
 
+a:visited {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+}
 
