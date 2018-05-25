@@ -17,25 +17,25 @@ footer{
 
 p{
     color: #fff;
-    
+    font-family: Arial, sans-serif;
 }
 
 h1{
     color: #fff;
-    
+    font-family: Arial, sans-serif;
     
 }
 
 h2{
     color: #fff;
-    
+    font-family: Arial, sans-serif;
     
     
 }
 
 h3{
     color: #fff;
-    
+    font-family: Arial, sans-serif;
     
     
 }
@@ -68,23 +68,27 @@ a:link {
     color: #fff;
     background-color: transparent; 
     text-decoration: none;
+    font-family: Arial, sans-serif;
 }
 
 a:visited {
     color: #fff;
     background-color: transparent;
     text-decoration: none;
+    font-family: Arial, sans-serif;
 }
 
 a:hover {
     color: #000;
     background-color: transparent;
     text-decoration: underline;
+    font-family: Arial, sans-serif;
 }
 
 a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
+    font-family: Arial, sans-serif;
 }
 
